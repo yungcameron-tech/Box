@@ -1,0 +1,182 @@
+.Navbar{
+    display: flex;
+    width: auto;
+    column-gap: 900px;
+    margin-left: 15px;
+    color: blue;
+}
+.sphere{
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+    display: flex;
+}
+.sphere li{
+    justify-content: end;
+    padding: 10px;
+
+}
+.MyPortfolio h2{
+    margin: 0;
+    list-style: none;
+    text-align: start;
+    padding-left: 0%;
+    margin-left: 0%;
+}
+.body1{
+    display: flex;
+    margin-top: 150px;
+    column-gap: 250px;
+    margin-left: 40px;
+    
+}
+.introduction h1{
+    font-size: 35px;
+    color: red;
+}
+.introduction h2{
+    font-size: 35px;
+    color: green;
+    margin-top: 0;
+}.introduction h3{
+    font-size: 35px;
+    color: blue;
+    margin-top: 0;
+}
+.sphere li a{
+    text-decoration: none;
+}
+.skillsection h2{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
+    color:blue;
+}
+.skillsection  u{
+    color:blue;
+}
+.skillsection{
+    margin-top: 30px;
+}
+
+.skillsection2{
+    display: flex;
+    column-gap: 50px;
+    justify-content: center;
+}
+
+
+.mySkills{
+    height: 150px;
+}
+.content1{
+    border: 2px solid black;
+    height:70px;
+    width:  150px;
+    margin: 5px;
+    display: inline-block;
+    background-color: rgb(101, 85, 141);
+    color: white;
+}
+.content2{
+    border: 2px solid black;
+    height: 70px;
+    width:  150px;
+    margin: 5px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(101, 85, 141);
+}
+.content3{
+    border: 2px solid black;
+    height: 70px;
+    width:  150px;
+    margin: 10px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(101, 85, 141);
+}
+.content4{
+    border: 2px solid black;
+    height: 70px;
+    width:  150px;
+    margin: 5px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(101, 85, 141);
+}
+.key1{
+    text-align: center;
+}
+.mission{
+    display: flex;
+    justify-content: center;
+}
+.sweet{
+    margin: 50px;
+    margin-top: 55px;
+}
+.introduction{
+    margin: 15px;
+    margin-bottom:  65px;
+}
+.content5{
+    border: 2px solid black;
+    height: 70px;
+    width:  150px;
+    margin: 5px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(101, 85, 141);
+}
+.content6{
+    border: 2px solid black;
+    height: 70px;
+    width:  150px;
+    margin: 5px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(101, 85, 141);
+}
+.content7{
+    border: 2px solid black;
+    height: 70px;
+    width:  150px;
+    margin: 5px;
+    display: inline-block;
+    color: white;
+    background-color: rgb(101, 85, 141);
+}
+.content8{
+    border: 2px solid black;
+    height: 70px;
+    width:  150px;
+    margin: 5px;
+    display: inline-block;
+    justify-content: center;
+    color: white;
+    background-color: rgb(101, 85, 141);
+}
+.contenta h3{
+    color: blue;
+    font-size: larger;
+}
+.contenta u{
+    color: blue;
+}
+.mission h2{
+    color: blue;
+}
+.mission u{
+    color: blue;
+}
+.skillsection{
+    margin: 30;
+    margin-top: 30;
+}
+.vector{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
