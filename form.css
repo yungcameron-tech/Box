@@ -1,0 +1,26 @@
+body{
+    color: black;
+}
+.wrath{
+    display: flex;
+    justify-content: center;
+    color: rgb(26, 199, 162);
+}
+.inputbox{
+    margin-top: 35px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.Von{
+    display: flex;
+    justify-content: center;
+}
+.Give{
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+}
+
+
